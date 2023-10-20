@@ -1,0 +1,17 @@
+{
+    "name": "gustavokeller/app_etl",
+    "description": "App ETL - com Principio SOLID O (Open/Closed Principle)",
+    "authors": [
+        {
+            "name": "Gustavo Keller",
+            "email": "gustavo.lealtec@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
+ 

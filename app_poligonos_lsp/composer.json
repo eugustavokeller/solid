@@ -1,0 +1,17 @@
+{
+    "name": "gustavokeller/app_poligonos",
+    "type": "project",
+    "description": "Projeto de poligonos - com o Pricipio de SOLID L (Liskov Substitution Principle)",
+    "authors": [
+        {
+            "name": "Gustavo Keller",
+            "email": "gustavo.lealtec@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

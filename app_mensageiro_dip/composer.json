@@ -1,0 +1,16 @@
+{
+    "name": "gustavokeller/app_mensageiro_dip",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gustavo Keller",
+            "email": "gustavo.lealtec@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
